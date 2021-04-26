@@ -1,8 +1,7 @@
 algorithmic-trading/
 .ipynb_checkpoints/
-**/secrets.py
 .DS_Store
 __pycache__
 **/recommended_trades.xlsx
 **/momentum_strategy.xlsx
-venv/
+.venv/
